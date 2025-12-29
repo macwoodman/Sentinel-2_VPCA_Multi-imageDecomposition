@@ -1,0 +1,3 @@
+Files included are meant to be used in a google colab python workspace. The IPYNB files may be exported and ported into a jupyter or other file format. 
+These files as is will give a spectral decomposition within a set coordinate system. The codes will need to be run sequentially as data products from previous workbooks will be called on within the google drive workspace. Workbooks are labeled sequentially 1 through 5 and the other workbook will produce gifs from the decomposition products for time series viewing.
+This code was developed to target the Indian River Lagoon in Florida and is meant for water quality remote sensing and so it only targets water pixels. If you would like to use this tool to target a different area, simply change the coordinates. 
